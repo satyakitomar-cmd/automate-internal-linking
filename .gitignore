@@ -41,3 +41,6 @@ results/
 
 # Plan artifacts
 plan_output.txt
+
+# Claude Code
+.claude/
